@@ -4,7 +4,7 @@
 
 ## Stats
 
-- **Total assets**: 1537
+- **Total assets**: 1545
 - **License**: CC0-1.0 (all Kenney assets are public domain)
 - **Source**: [kenney.nl](https://kenney.nl)
 
@@ -12,6 +12,7 @@
 
 | Pack | Assets | License | Link |
 |------|--------|---------|------|
+| Kenney Skyboxes | 8 | CC0-1.0 | [Link](https://kenney.nl/assets/skyboxes) |
 | Kenney Space Kit | 1537 | CC0-1.0 | [Link](https://kenney.nl/assets/space-kit) |
 
 ## Structure
@@ -21,7 +22,7 @@ assets-3d-space/
 ├── assets/kenney/    # Organized by source pack
 ├── previews/         # Pack preview images
 ├── LICENSES/         # License files per pack
-├── manifest.json     # Machine-readable asset index (1537 entries)
+├── manifest.json     # Machine-readable asset index (1545 entries)
 ├── tags.json         # Genre, theme, style tags
 └── README.md
 ```

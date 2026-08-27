@@ -1,12 +1,13 @@
 {
   "name": "assets-3d-space",
   "description": "3D space assets (ships, stations, asteroids, planets)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "category": "3d",
   "theme": "space",
-  "totalAssets": 1537,
+  "totalAssets": 1545,
   "sources": [
-    "Kenney Space Kit"
+    "Kenney Space Kit",
+    "Kenney Skyboxes"
   ],
   "assets": [
     {
@@ -23826,6 +23827,126 @@
         "space",
         "kenney",
         "space-kit"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/Preview",
+      "name": "Preview",
+      "path": "assets/kenney/skyboxes/Preview.png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/Sample (Day)",
+      "name": "Sample (Day)",
+      "path": "assets/kenney/skyboxes/Sample (Day).png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/Sample (Night)",
+      "name": "Sample (Night)",
+      "path": "assets/kenney/skyboxes/Sample (Night).png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/skybox-alien",
+      "name": "Skybox Alien",
+      "path": "assets/kenney/skyboxes/Skyboxes/skybox-alien.png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/skybox-day",
+      "name": "Skybox Day",
+      "path": "assets/kenney/skyboxes/Skyboxes/skybox-day.png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/skybox-morning",
+      "name": "Skybox Morning",
+      "path": "assets/kenney/skyboxes/Skyboxes/skybox-morning.png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/skybox-night",
+      "name": "Skybox Night",
+      "path": "assets/kenney/skyboxes/Skyboxes/skybox-night.png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
+      ],
+      "fileType": "png"
+    },
+    {
+      "id": "kenney-skyboxes/skybox-space",
+      "name": "Skybox Space",
+      "path": "assets/kenney/skyboxes/Skyboxes/skybox-space.png",
+      "source": "Kenney Skyboxes",
+      "sourceUrl": "https://kenney.nl/assets/skyboxes",
+      "license": "CC0-1.0",
+      "tags": [
+        "3d",
+        "space",
+        "kenney",
+        "skyboxes"
       ],
       "fileType": "png"
     }
